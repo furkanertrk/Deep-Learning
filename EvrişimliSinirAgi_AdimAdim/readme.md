@@ -29,7 +29,7 @@ Bu uygulama, derin öğrenme kütüphanelerinin (TensorFlow, PyTorch vb.) perde 
 1.  Bu depoyu bilgisayarınıza klonlayın:
 
     ```bash
-    git clone https://github.com/KullaniciAdiniz/ProjeAdi.git
+    git clone https://github.com/furkanertrk/Deep-Learning.git
     ```
 
 2.  Gerekli kütüphaneleri yükleyin:
@@ -45,3 +45,4 @@ Bu uygulama, derin öğrenme kütüphanelerinin (TensorFlow, PyTorch vb.) perde 
 ### Nasıl Kullanılır?
 
   * `EvrişimliSinirAgi_AdimAdim.ipynb` dosyasını açarak her bir kod bloğunu sırayla çalıştırın.
+
