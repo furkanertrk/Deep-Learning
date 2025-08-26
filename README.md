@@ -14,8 +14,6 @@ Bu depo, derin öğrenme (deep learning) alanında geliştirdiğim çeşitli uyg
 
 ### Kurulum
 
-Projelerin her biri farklı kütüphane gereksinimlerine sahip olabilir. Ancak genel olarak, aşağıdaki adımları izleyerek projeleri çalıştırabilirsiniz:
-
 1.  Bu depoyu bilgisayarınıza klonlayın:
 
     ```bash
